@@ -1,1 +1,1 @@
-# node-printer
+nw-gyp rebuild --target=v0.38.3 --arch=x64
