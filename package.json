@@ -1,8 +1,7 @@
 {
   "name": "node-printer",
-  "description": "Create and manage one or multiple printers (w/ CUPS), send file path or node buffer with support for all lp options. Get feedback on jobs you sent.",
   "version": "1.0.4",
-  "homepage": "http://github.com/alepee/node-printer",
+  "homepage": "https://github.com/DiaconescuConstantin/node-printer",
   "keywords": [
     "printer",
     "print",
@@ -10,18 +9,11 @@
     "lp",
     "job"
   ],
-  "author": "Antoine Lépée <alepee@gmail.com>",
+  "author": "",
   "main": "./lib/printer",
-  "scripts": {
-    "test": "jasmine"
-  },
-  "bugs": {
-    "mail": "",
-    "url": "http://github.com/alepee/node-printer/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alepee/node-printer.git"
+    "url": "https://github.com/DiaconescuConstantin/node-printer.git"
   },
   "engines": {
     "node": ">=0.11.12"
