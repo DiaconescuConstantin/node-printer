@@ -2,14 +2,6 @@
   "name": "node-printer",
   "version": "1.0.4",
   "homepage": "https://github.com/DiaconescuConstantin/node-printer",
-  "keywords": [
-    "printer",
-    "print",
-    "cups",
-    "lp",
-    "job"
-  ],
-  "author": "",
   "main": "./lib/printer",
   "repository": {
     "type": "git",
@@ -17,11 +9,5 @@
   },
   "engines": {
     "node": ">=0.11.12"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/alepee/node-printer/raw/master/LICENSE"
-    }
-  ],
+  }
 }
